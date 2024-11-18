@@ -3,3 +3,6 @@
 $ git checkout '版本3分支1'
 Switched to branch '版本3分支1'
 修改3
+
+版本 3分支2
+修改4
