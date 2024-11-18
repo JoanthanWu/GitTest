@@ -3,3 +3,5 @@ https://git-scm.com/doc
 Pro Git
 https://git-scm.com/book/en/v2
 https://git-scm.com/book/zh/v2
+版本 3分支2 合并bug
+修改6
