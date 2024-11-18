@@ -10,3 +10,6 @@ Switched to branch '版本3分支1'
 修复BUG分支
 修改5
 
+版本 3分支2 合并bug
+修改6
+
